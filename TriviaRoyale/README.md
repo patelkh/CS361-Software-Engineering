@@ -1,5 +1,3 @@
-Portfolio Project
+For the individual project portion of the portfolio project, I've created an interactive trivia app that allows users to test their knowledge in four areas: Movies, Films, Sports and Video Games. Trivia questions are pulled from the Open Trivia Database https://opentdb.com via an API call and displayed in multiple choice format. Users have the ability to override default settings by adjusting the trivia category, difficulty and number of questions. The number of questions is set using a third part Random Number Generator microservice. The returned number ranges from 5 to 20. 
 
-Each person on your team must create their own individual project plus a microservice. Your individual project must request data, receive data, and use data from a teammate's service. It must also have a user interface (ex: GUI, command-line, voice control, etc.) You must provide a service to at least one teammate's individual project.
-
-For implementation, you get to choose your programming language.
+This app is written in javascript and uses Express and React frameworks. 
