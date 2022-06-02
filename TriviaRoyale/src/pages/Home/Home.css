@@ -1,0 +1,53 @@
+.app-title {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #36486b
+}
+
+.info-background {
+    background-color: #ddeedd;
+    padding: 10px 0px 10px 0px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color: darkgreen;
+}
+.labels {
+    color: steelblue;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.input-field {
+    width: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    padding: 7px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid steelblue;
+}
+
+.disabled-field {
+    background-color: gainsboro;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    padding: 7px;
+    border-radius: 10px;
+    border: 1px solid steelblue;
+    width: 250px;
+
+}
+
+.rng-button {
+    border-radius: 10px;
+    font-size: 13px;
+    min-height: 4vh;
+    margin-bottom: 4px;
+}
+.start-button {
+    border-radius: 10px;
+    width: 30%;
+}
